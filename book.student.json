@@ -1,15 +1,21 @@
 {
     "variables": {
-        "edition": "student",
+        "edition": "master",
         "slides": false,
         "outputContent": [
             "content"
         ]
     },
-    "plugins": ["wrapclass", "addcssjs"],
+    "plugins": [
+        "wrapclass",
+        "addcssjs",
+        "richquotes",
+        "remark-inline"
+    ],
     "pluginsConfig": {
         "addcssjs": {
-            "css": []
+            "css": [
+            ]
         }
     }
 }
