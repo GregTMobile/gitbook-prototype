@@ -1,9 +1,9 @@
 {
     "variables": {
-        "edition": "master",
-        "slides": false,
+        "edition": "instructor",
         "outputContent": [
-            "content"
+            "content",
+            "notes"
         ]
     },
     "plugins": [

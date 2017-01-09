@@ -3,7 +3,8 @@
         "edition": "master",
         "slides": false,
         "outputContent": [
-            "content"
+            "content",
+            "notes"
         ]
     },
     "plugins": [

@@ -26,7 +26,3 @@ mv book.docx build/student.docx
 
 echo "Finishing up"
 cp book.master.json book.json
-cd build
-echo "Hit ctrl+C when you are done with this book"
-http-server
-cd ..

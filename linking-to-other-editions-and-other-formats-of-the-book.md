@@ -1,17 +1,8 @@
-* Student Edition: https://jeffersonheard.gitbooks.io/gitbook-doc-prototype/content/v/student/
+These links will **not** work from the editor.
 
-* PDF: https://www.gitbook.com/download/pdf/book/jeffersonheard/gitbook-doc-prototype/content/v/student/
-
-* EPUB: https://www.gitbook.com/download/epub/book/jeffersonheard/gitbook-doc-prototype
-
-* MOBI:
-https://www.gitbook.com/download/mobi/book/jeffersonheard/gitbook-doc-prototype
-
-* Instructor Edition: https://jeffersonheard.gitbooks.io/gitbook-doc-prototype/content/v/instructor/
-
-* PDF: https://www.gitbook.com/download/pdf/book/jeffersonheard/gitbook-doc-prototype/v/instructor/
-
-* EPUB: https://www.gitbook.com/download/epub/book/jeffersonheard/gitbook-doc-prototype/v/instructor/
-
-* MOBI:
-https://www.gitbook.com/download/mobi/book/jeffersonheard/gitbook-doc-prototype/v/instructor/
+* [Student Edition](../student)
+* [Instructor Edition](../instructor)
+* [PDF](../instructor.pdf)
+* [EPUB](../instructor.epub)
+* [Microsoft Word](../instructor.docx)
+* [Presentation](./presentation.html)
